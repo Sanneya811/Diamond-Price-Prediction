@@ -23,3 +23,5 @@ streamlit run app.py
 - `app.py` - Streamlit app entry point
 - `diamonds.csv` - dataset used to train the model
 - `requirements.txt` - Python dependencies
+
+- deploment link: https://diamond-price-prediction-gafkxrxc44sd4eftznjkck.streamlit.app/
